@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sakenism/nodejs/issues"
   },
-  "homepage": "https://github.com/sakenism/nodejs#readme"
+  "homepage": "https://github.com/sakenism/nodejs#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
